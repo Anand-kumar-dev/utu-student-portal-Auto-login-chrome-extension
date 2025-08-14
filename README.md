@@ -92,6 +92,12 @@ Website Watcher & Enroller is a Chrome extension designed to automate the login 
 - Check the browser console for error messages
 - Verify that the authentication API is accessible
 
+## Demon video
+
+
+https://github.com/user-attachments/assets/75cd408f-8f35-4a67-9ee6-49b2f2935547
+
+
 
 ## Backend System[https://github.com/Anand-kumar-dev/Auto-login-backend]
 
